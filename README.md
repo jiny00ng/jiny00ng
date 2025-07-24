@@ -8,7 +8,7 @@
 - `Name` : Jinyoung Kim (김진영 / 金珍永)
 - 📫`Email` : jykim9226@naver.com
 - 🔭 I want to work in the **SmartFactory** field
-  - Major : ⚙️Mechanical Engineering, 📡IoT Development, 💻C#
+  - Major : ⚙️Mechanical Engineering, 📡IoT Development, 💻C++
 
 ## GitHub Stat and Languages
 <p align='center'>
